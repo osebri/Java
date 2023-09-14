@@ -1,0 +1,10 @@
+New Brunswick
+7
+S12345,daysailer,68,2,false
+R55551,manager
+A12223,swampboat,22.5,73
+S98763,schooner,120,4,true
+R88880,salesperson
+A22277,bayou,16.25,61
+R13321,broker
+end

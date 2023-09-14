@@ -1,0 +1,27 @@
+9780006716693	The Last Battle	Lewis	2
+9780007591855	The Silmarillion	Tolkien	3
+9780048232298	The Lord of the Rings	Tolkien	1
+9780385491037	The Robber Bride	Atwood	3
+9781400079179	The Da Vinci Code	Brown	2
+
+9780048232298	The Lord of the Rings	Tolkien	1
+9780062230621	The Confidence Code	Kay	0
+9780385491037	The Robber Bride	Atwood	3
+Number of unique books: 4
+My Library after adding a book: 
+9780006716693	The Last Battle	Lewis	2
+9780007591855	The Silmarillion	Tolkien	3
+9780048232298	The Lord of the Rings	Tolkien	1
+9780071079170	The Skin We're In	Cole	5
+9780385491037	The Robber Bride	Atwood	3
+9781400079179	The Da Vinci Code	Brown	2
+Merged Libraries: 
+9780006716693	The Last Battle	Lewis	2
+9780007591855	The Silmarillion	Tolkien	3
+9780048232298	The Lord of the Rings	Tolkien	1
+9780048232298	The Lord of the Rings	Tolkien	1
+9780062230621	The Confidence Code	Kay	0
+9780071079170	The Skin We're In	Cole	5
+9780385491037	The Robber Bride	Atwood	3
+9780385491037	The Robber Bride	Atwood	3
+9781400079179	The Da Vinci Code	Brown	2

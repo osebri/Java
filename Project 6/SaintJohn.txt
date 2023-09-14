@@ -1,0 +1,30 @@
+$22100.00;James;Betty
+$23125.12;Locke;Kelsey
+$25375.00;Wood;Ken
+$26899.71;Patterson;Luke
+$27234.45;Miller;Laura
+$27255.56;Paul;Lisa
+$28367.31;McLean;June
+$29782.67;Hallett;Robert
+$31389.00;Richardson;Hank
+$32000.00;Jones;Kelly
+$32455.27;Stephenson;Jake
+$33281.78;MacKenzie;Peter
+$34567.23;London;Troy
+$35764.00;Barnes;Lyle
+$37975.11;Webb;Olivia
+$38675.00;Boone;David
+$40500.00;Su;Brian
+$44356.25;Andover;Melanie
+$45652.80;Clarke;Mary Ann
+$48900.00;Doe;John
+$50000.00;Parker;Gordon
+$52175.50;Preston-White;Denise
+$55234.12;Sheppard;Vance
+$62745.00;Underhill;Eric C.
+$68200.00;Hatfield;Karen
+$76850.00;Webber;Charles R.
+$85900.00;Smith;Marcie
+$106500.00;Whitfield;Janet
+$127892.73;Orser;Kevin
+$132560.00;Wang;Li

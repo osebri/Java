@@ -1,0 +1,9 @@
+9780006716693	The Last Battle	Lewis	2
+
+Number of unique books: 1
+My Library after adding a book: 
+9780006716693	The Last Battle	Lewis	2
+9780006716693	The Last Battle	Lewis	2
+Merged Libraries: 
+9780006716693	The Last Battle	Lewis	2
+9780006716693	The Last Battle	Lewis	2
